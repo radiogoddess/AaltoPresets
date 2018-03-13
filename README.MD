@@ -12,4 +12,4 @@ Most of the categories here are self-explanatory, but a few probably need explan
 
 ## How do I install these?
 
-If you're on a Mac, you can put them in Aalto's preset folder, which is `/Music/Madrona Labs/Aalto/`
+If you're on a Mac, you can put them in Aalto's preset folder, which is found in `~/Music/Madrona Labs/Aalto/`
